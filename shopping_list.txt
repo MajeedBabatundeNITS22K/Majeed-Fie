@@ -4,3 +4,5 @@ Spaghetti
 Bread
 Butter
 Magarine
+Kebab
+Pizza
